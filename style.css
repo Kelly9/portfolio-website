@@ -1,0 +1,48 @@
+.btn-dark {
+    color: #ED672B;
+    background-color: #FDEC47;
+}
+
+.btn-dark:hover,
+.btn-dark:focus,
+.btn-dark:active {
+    color: #FDEC47;
+    background-color: #ED672B;
+}
+
+.btn-light {
+    color: #ED672B;
+    background-color: #FDEC47;
+}
+
+.btn-light:hover,
+.btn-light:focus,
+.btn-light:active {
+    color: #FDEC47;
+    background-color: #ED672B;
+}
+
+
+.sidebar-nav li a {
+    color: #293E28;
+}
+
+.sidebar-nav > .sidebar-brand a {
+    color: #ED672B;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+    color: #F88952;
+}
+
+#sidebar-wrapper {
+    background: #FDEC47;
+}
+
+.header {
+    background-image: url("images/yellow-leaves-tilted.jpg");
+}
+
+#main-logo {
+    height: 30%;
+}
